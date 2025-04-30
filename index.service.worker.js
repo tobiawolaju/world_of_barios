@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1746031042|2070894218';
+const CACHE_VERSION = '1746031183|2211602890';
 /** @type {string} */
 const CACHE_PREFIX = 'Bario-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
